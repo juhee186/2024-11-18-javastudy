@@ -30,22 +30,21 @@ public class 자바제어문_단일조건문2 {
 			System.out.printf("%d - %d = %d\n",num1,num2,num1-num2);
 		}
 		
-		/*if(op=='/')
+		if(op=='/')
 		{
-			JOptionPane.showMessageDialog(null, num1+"/"+num2+"/"+(num1+num2));
+			JOptionPane.showMessageDialog(null,num1+"-"+num2+"="+(num1-num2));
 			if(num2==0)
 			{
 				System.out.println("0으로 나눌수");
 			if(num2!=0)	
-				System.out.println("%d / %d = %d\n",num1,num2,num1/num2);
-			}*/
-			
-			
-			
+				System.out.printf("%d / %d = %d\n",num1,num2,num1/num2);
+			}
 		}
-		
-		
-		
-
 	}
+}
+
+			
+			
+			
+		
 
