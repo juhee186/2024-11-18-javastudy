@@ -137,7 +137,7 @@ public class 반복문_3 {
 			{
 				System.out.print(" ");
 		    }
-			for(int k=1;k<=i;k++) {// 별표
+			for(int k=1;k<=i;k++) // 별표
 			{
 				System.out.print("*");
 			}
@@ -151,7 +151,7 @@ public class 반복문_3 {
 			{
 				System.out.print(" ");
 		    }
-			for(int k=1;k<=5-i;k++) {// 별표
+			for(int k=1;k<=5-i;k++) // 별표
 			{
 				System.out.print("*");
 			}

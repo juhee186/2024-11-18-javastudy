@@ -17,6 +17,7 @@ public class 반복문_8 {
 			if(num%3==0)
 				a3++;
 			
+			
 						
 		}
 		System.out.println();

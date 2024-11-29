@@ -38,6 +38,7 @@ public class 반복문_3 {
 		for(int i=1;i<=9;i++)
 		{
 			System.out.println(dan+"*"+i+"="+dan*i);
+			
 		}
 
 	}

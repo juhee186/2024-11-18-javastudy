@@ -17,19 +17,23 @@ public class 반복문_4 {
 		{
 			
 			if(i%2==0)
-				even+=i; 
-				
-			/*else(i%2!=0) //odd+=i
-			{
-				odd+=i; 
-			}
-		}*/
-				System.out.println("1~100 까지의 짝수합"+even);
-		      //  System.out.println("1~100 까지의 홀수합"+odd);
+				{
+				even+=i;
+				}
+			else //odd+=i 
+				{
+				odd+=i;  
+				}
+			
+			System.out.println("1~100 까지의 짝수합"+even);
+			System.out.println("1~100 까지의 홀수합"+odd);
 		}
 		
 		
+		
+		
+		
+		
+    }
+}
 
-	
-}
-}
