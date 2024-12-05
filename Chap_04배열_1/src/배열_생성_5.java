@@ -15,6 +15,7 @@ public class 배열_생성_5 {
 		for(int i=0;i<aa.length;i++)
 		{
 			System.out.println("aa["+i+"]="+aa[i]);
+			
 		}
 		
 		
