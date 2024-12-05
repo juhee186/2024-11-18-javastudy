@@ -19,6 +19,7 @@ public class 메소드응용_1변경 {
 			}
 		}
 		
+		
 		return com;
 	}
 	// 사용자입력 => 유효성 검사
