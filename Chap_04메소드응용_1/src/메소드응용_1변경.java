@@ -116,6 +116,7 @@ public class 메소드응용_1변경 {
 		while(true)
 		{
 			user=userinput();
+			
 			int s=compare(com,user);
 			if(isEnd(s))
 			{
