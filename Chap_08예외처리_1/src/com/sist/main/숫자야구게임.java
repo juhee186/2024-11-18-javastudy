@@ -121,6 +121,7 @@ implements ActionListener
 					return; 
 				}
 				
+				
 				if(user[0]==user[1] || user[1]==user[2] || user[0]==user[2])
 				{
 					JOptionPane.showMessageDialog(this, 
